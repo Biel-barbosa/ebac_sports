@@ -1,4 +1,3 @@
-/* eslint-disable @typescript-eslint/no-empty-function */
 import { useGetProdutosQuery } from './store/produtosApi'
 import { useSelector, useDispatch } from 'react-redux'
 import { RootState, AppDispatch } from './store/store'
